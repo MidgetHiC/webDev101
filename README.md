@@ -4,3 +4,4 @@
 3. images
 4. audio
 5. video
+6. favicons
