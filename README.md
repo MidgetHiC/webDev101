@@ -1,4 +1,6 @@
 # webDev101
 1. html basics
 2. hyperlinks
-3. audio
+3. images
+4. audio
+5. video
