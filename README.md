@@ -5,3 +5,5 @@
 4. audio
 5. video
 6. favicons
+7. text formating
+8. span & div
