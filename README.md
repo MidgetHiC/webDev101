@@ -7,3 +7,5 @@
 6. favicons
 7. text formating
 8. span & div
+9. lists
+10. tables
